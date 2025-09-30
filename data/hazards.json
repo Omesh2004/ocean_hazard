@@ -1,0 +1,46 @@
+[
+  {
+    "id": "e3fd6e50-55b8-4833-b1d4-250d1b11d558",
+    "title": "tsunami",
+    "description": "tsunami",
+    "category": "high-waves",
+    "severity": "high",
+    "latitude": 22.6244305,
+    "longitude": 88.4207305,
+    "createdAt": "2025-09-26T15:43:10.617Z",
+    "source": "geolocation"
+  },
+  {
+    "id": "3eb552a0-fc2a-4202-8284-c9cc8d2be5cc",
+    "title": "high waves near mariana",
+    "description": "i saw a high wave near mariana",
+    "category": "high-waves",
+    "severity": "moderate",
+    "latitude": 22.6244305,
+    "longitude": 88.4207305,
+    "createdAt": "2025-09-27T11:05:16.773Z",
+    "source": "geolocation"
+  },
+  {
+    "id": "7eb7c8ac-970f-4f62-a318-012315c02701",
+    "title": "high waves near mariana",
+    "description": "i saw really high tidal waves near the see shore in mariana",
+    "category": "high-waves",
+    "severity": "moderate",
+    "latitude": 22.624634837466928,
+    "longitude": 88.42052649260417,
+    "createdAt": "2025-09-27T14:48:58.452Z",
+    "source": "geolocation"
+  },
+  {
+    "id": "a0f478c9-b3d6-4a31-924a-54b991048e09",
+    "title": "High waves near mariana",
+    "description": "i saw really high waves near the sea shore",
+    "category": "high-waves",
+    "severity": "moderate",
+    "latitude": 22.62464065680555,
+    "longitude": 88.42053006825401,
+    "createdAt": "2025-09-27T14:55:46.154Z",
+    "source": "geolocation"
+  }
+]
